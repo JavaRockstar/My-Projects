@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
+import os
 
 while True:
-    import os
-    import sys
-
     class color:
         CYAN = '\033[96m'
         BLUE = '\033[94m'
